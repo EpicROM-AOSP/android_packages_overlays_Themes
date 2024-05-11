@@ -427,3 +427,15 @@ PRODUCT_PACKAGES += \
     BrightnessSliderShadedOverlay \
     BrightnessSliderThinOverlay \
     BrightnessSliderTranslucentOverlay
+	
+# QS UI Style
+PRODUCT_PACKAGES += \
+    QSOutline \
+    QSTwoToneAccent \
+    QSTwoToneAccentTrans \
+    QSShaded \
+    QSCyberPunk \
+    QSNeumorph \
+    QSReflected \
+    QSSurround \
+    QSThin
